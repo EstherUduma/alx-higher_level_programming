@@ -1,2 +1,2 @@
---This script creates the database hbtn_0c_0 if it doesn't exist
+-- create dbs if not exits htbn_0c_0
 CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
